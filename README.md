@@ -2,25 +2,25 @@
 ChatApp is a cross-platform real-time messaging mobile application built using Flutter and Firebase. It supports user registration, authentication, chat creation, real-time messaging, and data storage in Firebase's cloud.
 
 Features
-Firebase Authentication - User registration and login using email and password.
-Firebase Firestore - Stores messages and user data in the cloud with Firestore.
-Real-Time Messaging - Messages are instantly delivered between users thanks to Firestore integration.
-UI in Flutter - Beautiful and responsive user interface for both Android and iOS.
-Security - All data is encrypted and transmitted over secure channels.
+Firebase Authentication - User registration and login using email and password.<br>
+Firebase Firestore - Stores messages and user data in the cloud with Firestore.<br>
+Real-Time Messaging - Messages are instantly delivered between users thanks to Firestore integration.<br>
+UI in Flutter - Beautiful and responsive user interface for both Android and iOS.<br>
+Security - All data is encrypted and transmitted over secure channels.<br>
 
 ## Getting Started
 
-Requirements
-Flutter SDK (version 3.0 or higher)
-Android Studio or VS Code
-Firebase Project (with Authentication and Firestore enabled)
-Google Account to access Firebase Console
+Requirements<br>
+Flutter SDK (version 3.0 or higher)<br>
+Android Studio or VS Code<br>
+Firebase Project (with Authentication and Firestore enabled)<br>
+Google Account to access Firebase Console<br>
 
-lib/main.dart - The entry point of the app.
-lib/pages/ - Contains screens for registration, login, and chats.
-lib/services/ - Contains services for Firebase operations.
-lib/widgets/ - Contains widgets used in the app's UI.
-lib/components/ - Contains Components repeting in a project
+lib/main.dart - The entry point of the app.<br>
+lib/pages/ - Contains screens for registration, login, and chats.<br>
+lib/services/ - Contains services for Firebase operations.<br>
+lib/widgets/ - Contains widgets used in the app's UI.<br>
+lib/components/ - Contains Components repeting in a project<br>
 
 This project is a starting point for a Flutter application.
 
