@@ -25,9 +25,10 @@ lib/components/ - Contains Components repeting in a project<br>
 This project is a starting point for a Flutter application.
 
 Screenshots
-![Home Screen](screenshots/auth.jpg)
-![Chat Screen](screenshots/chat.jpg)
-![Demo](sreenshots/video.gif)
+<img src="sreenshots/auth.jpg" alt="Home Screen" width="300" height="500"/>
+<img src="sreenshots/chat.jpg" alt="Chat Screen" width="300" height="500" />
+<img src="sreenshots/video.gif" alt="Demo" width="300" height="500"  />
+
 
 
 A few resources to get you started if this is your first Flutter project:
